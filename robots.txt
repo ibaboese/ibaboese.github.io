@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibaboese.github.io/HGl/sitemap_index.txt
+Sitemap: https://ibaboese.github.io/NXO/sitemap_index.txt
+Sitemap: https://ibaboese.github.io/Nrb/sitemap_index.txt
+Sitemap: https://ibaboese.github.io/pyQ/sitemap_index.txt
